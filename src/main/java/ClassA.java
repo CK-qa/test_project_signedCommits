@@ -6,4 +6,6 @@ public class ClassA {
     //test1
 
     //change2
+
+    //change3
 }
